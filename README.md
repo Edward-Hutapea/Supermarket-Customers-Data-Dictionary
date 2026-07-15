@@ -3,8 +3,8 @@
 **Author: Edward Hutapea – Data Analyst**
 
 **Dataset**
--	Lokasi https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK
--	Fitur-fitur di dataset berkaitan dengan profil demografi pelanggan supermarket, produk supermarket, respon pelanggan terhadap promo/diskon, dan cara pelanggan bertransaksi di supermarket.
+
+Fitur-fitur di dataset berkaitan dengan profil demografi pelanggan supermarket, produk supermarket, respon pelanggan terhadap promo/diskon, dan cara pelanggan bertransaksi di supermarket.
 
 **Overview**
 
