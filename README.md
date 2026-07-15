@@ -8,7 +8,7 @@
 
 **Overview**
 
-Loyalitas pelanggan terhadap produk supermarket merupakan persoalan yang dihadapi supermarket dari waktu ke waktu. Dataset menunjukkan Churn Rate (dari keseluruhan pelanggan) sebesar 68%. Kondisi ini bisa menyebabkan omset penjualan supermarket menjadi stagnan. Di saat yang bersamaan, kehadiran kompetitor beserta variasi produk yang ditawarkan membuat pelanggan memiliki banyak opsi untuk mendapatkan produk yang dibutuhkan. 
+Loyalitas pelanggan terhadap produk supermarket merupakan tantangan yang dihadapi supermarket dari waktu ke waktu. Dataset menunjukkan Churn Rate (dari keseluruhan pelanggan) sebesar 68%. Kondisi ini bisa menyebabkan omset penjualan supermarket menjadi stagnan. Di saat yang bersamaan, kehadiran kompetitor beserta variasi produk yang ditawarkan membuat pelanggan memiliki banyak opsi untuk mendapatkan produk yang dibutuhkan. 
 
 **Problem Statement**
 
