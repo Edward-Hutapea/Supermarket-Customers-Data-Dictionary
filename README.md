@@ -57,7 +57,7 @@ Kombinasi Most Valuable Customers, Personalized Promotion dan model machine lear
 2.	Model membantu supermarket dalam memprediksi total transaksi pelanggan, namun total transaksi bisa meleset sekitar $110 s/d $212 per orangnya.
 3.	Model membantu supermarket beralih dari strategi bisnis yang bersifat tebakan (instinct-driven) menjadi berbasis data (data-driven).
 4.	Model bisa membantu supermarket dalam personalized promotion, optimalisasi supply chain dan perencanaan target penjualan.
-5.	Untuk model ini, berdasarkan feature importances, fitur yang sangat mempengaruhi total transaksi pelanggan adalah cara/metode pelanggan bertransaksi (offline, online atau memanfaatkan katalog), income pelanggan dan sudah berapa lama pelanggan menjadi member supermarket.
+5.	Untuk model ini, berdasarkan feature importances, fitur yang sangat mempengaruhi total transaksi pelanggan adalah media/metode pelanggan bertransaksi (offline, online atau memanfaatkan katalog), income pelanggan dan sudah berapa lama pelanggan menjadi member supermarket.
 
 **Rekomendasi**
 
