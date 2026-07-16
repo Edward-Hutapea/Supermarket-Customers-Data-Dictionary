@@ -12,7 +12,7 @@ Loyalitas pelanggan terhadap produk supermarket merupakan tantangan yang dihadap
 
 **Problem Statement**
 1. Promo/diskon produk yang kurang tepat sasaran dan kurang atraktif.
-2. Supermarket kurang akurat menentukan target penjualan.
+2. Prediksi nilai transaksi pelanggan yang kurang akurat.
 
 **Goals**
 1.	Menemukan “Most Valuable Customers” yang bisa signifikan meningkatkan omset penjualan supermarket berdasarkan analisa data historis pelanggan. Dari sisi biaya (Return of Investment), mengeluarkan uang untuk mengejar mereka jauh lebih efisien dibandingkan mengejar pelanggan lainnya. Jika jumlah "Most Valuable Customers" bisa bertambah, maka omset penjualan bisa melonjak signifikan. 
