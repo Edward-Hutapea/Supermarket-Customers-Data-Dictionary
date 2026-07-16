@@ -11,8 +11,8 @@ Fitur-fitur di dataset berkaitan dengan profil demografi pelanggan supermarket, 
 Loyalitas pelanggan terhadap produk supermarket merupakan tantangan yang dihadapi supermarket dari waktu ke waktu. Dataset menunjukkan Churn Rate (dari keseluruhan pelanggan) sebesar 68%. Kondisi ini bisa menyebabkan omset penjualan supermarket menjadi stagnan. Di saat yang bersamaan, kehadiran kompetitor beserta variasi produk yang ditawarkan membuat pelanggan memiliki banyak opsi untuk mendapatkan produk yang dibutuhkan. 
 
 **Problem Statement**
-
-Promo/diskon produk yang kurang tepat sasaran dan kurang atraktif. Supermarket kurang akurat menentukan target penjualan.
+1. Promo/diskon produk yang kurang tepat sasaran dan kurang atraktif.
+2. Supermarket kurang akurat menentukan target penjualan.
 
 **Goals**
 1.	Menemukan “Most Valuable Customers” yang bisa signifikan meningkatkan omset penjualan supermarket berdasarkan analisa data historis pelanggan. Dari sisi biaya (Return of Investment), mengeluarkan uang untuk mengejar mereka jauh lebih efisien dibandingkan mengejar pelanggan lainnya. Jika jumlah "Most Valuable Customers" bisa bertambah, maka omset penjualan bisa melonjak signifikan. 
